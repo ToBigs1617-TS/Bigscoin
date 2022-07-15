@@ -8,8 +8,8 @@
 다양한 XAI 기법을 활용하여 **비트코인 차트의 패턴과 종가 예측 결과**를 한 눈에 알아볼 수 있는 시스템을 개발했습니다.  
 
 
-[![youtube](https://img.shields.io/badge/Youtube-Link-red)]
-[![googledrive](https://img.shields.io/badge/report-Link-lightgrey)]
+[![youtube](https://img.shields.io/badge/Youtube-Link-red)]()
+[![googledrive](https://img.shields.io/badge/report-Link-lightgrey)](https://drive.google.com/file/d/1w7ov8lgjOV22OMeGq2u-d8g2qvclc-WQ/view?usp=sharing)
 <br>  
 
 **14th Tobig's TimeSeries and Explainable AI Conference**  
