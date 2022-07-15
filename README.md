@@ -14,10 +14,6 @@
 
 **14th Tobig's TimeSeries and Explainable AI Conference**  
 
-Team name: **Bigscoin**  
-
-Project: **Explainable Bitcoin Pattern Alert and Forecasting Service**   
-
 <p align="center"><img src="https://user-images.githubusercontent.com/72960666/179309070-5bd34ff4-0d45-4dca-89d3-207c59c07161.png"></p>
 
 
