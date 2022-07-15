@@ -69,13 +69,13 @@
 
 |기수|이름|팀|역할|
 |:-----:|:-----:|:-----:|:-----:|
-|16기|[김권호](https://github.com/kkhv)|웹 서빙|Project Leader,  Backend|
+|16기|[김권호](https://github.com/kkhv)|웹 서빙|Project Leader, Backend|
 |16기|[박한나](https://github.com/hanna56)|웹 서빙|Frontend|
 |16기|[김윤혜](https://github.com/yoonene)|웹 서빙|Backend|
-|16기|[이예림](https://github.com/YerimLee00)|분류|Modeling,  Grad-CAM Visualization,  Presentation|
+|16기|[이예림](https://github.com/YerimLee00)|분류|Modeling & Grad-CAM Visualization, Presentation|
 |17기|[나세연](https://github.com/seyeonrha)|분류|Experiments|
 |17기|[유현우](https://github.com/yhw4343)|분류|Data Inspection(데이터 검수)|
-|16기|[김주호](https://github.com/Jooho-Git)|회귀|Probabilistic Modeling,  Nbeats Visualization,  Experiments|
-|17기|[김현태](https://github.com/hyuntai97)|회귀|DeepAR, Nbeats, Informer Modeling,  Experiments|
-|17기|[김상윤](https://github.com/tkddbs0411)|회귀|ARIMA Modeling,  DeepAR Tuning|
+|16기|[김주호](https://github.com/Jooho-Git)|회귀|Probabilistic Modeling & Nbeats Visualization, Experiments|
+|17기|[김현태](https://github.com/hyuntai97)|회귀|DeepAR, Nbeats, Informer Modeling & Experiments|
+|17기|[김상윤](https://github.com/tkddbs0411)|회귀|ARIMA Modeling & DeepAR Tuning|
 
