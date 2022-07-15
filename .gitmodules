@@ -4,3 +4,6 @@
 [submodule "Classification"]
 	path = Classification
 	url = https://github.com/ToBigs1617-TS/Classification.git
+[submodule "WebServing"]
+	path = WebServing
+	url = https://github.com/ToBigs1617-TS/WebServing.git
