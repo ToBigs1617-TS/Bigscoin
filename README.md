@@ -73,7 +73,7 @@
 |16기|[이예림](https://github.com/YerimLee00)|분류|Classification Modeling & Grad-CAM Visualization, Presentation|
 |17기|[나세연](https://github.com/seyeonrha)|분류|Experiments|
 |17기|[유현우](https://github.com/yhw4343)|분류|Domain Knowledge & Data Inspection(데이터 검수)|
-|16기|[김주호](https://github.com/Jooho-Git)|회귀|Probabilistic Modeling & Nbeats Visualization, Experiments|
+|16기|[김주호](https://github.com/Jooho-Git)|회귀|N-BEATS Visualization & Model Tuning, Data Augmentation|
 |17기|[김현태](https://github.com/hyuntai97)|회귀|DeepAR, Nbeats, Informer Modeling & Experiments|
 |17기|[김상윤](https://github.com/tkddbs0411)|회귀|ARIMA Modeling & DeepAR Tuning|
 
